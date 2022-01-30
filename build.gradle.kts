@@ -6,8 +6,8 @@ plugins {
     id("fabric-loom") version "0.11.+"
 }
 
-group = "com.example"
-version = "1.0"
+group = "dev.isxander"
+version = "1.0.0"
 
 repositories {
     mavenCentral()
